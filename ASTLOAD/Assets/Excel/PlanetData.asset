@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f14c326a60411d42bdb32a3f522c70a, type: 3}
+  m_Name: PlanetData
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: Sheet1
+    list:
+    - id: 1
+      name: Palice
+      Size: 20
+      MaxEnergy: 100
+      Weight: 0.5
+      judge: 0
+    - id: 2
+      name: Petuna
+      Size: 10
+      MaxEnergy: 50
+      Weight: 1
+      judge: 1
+    - id: 3
+      name: Pakira
+      Size: 5
+      MaxEnergy: 20
+      Weight: 1.5
+      judge: 0
+    - id: 4
+      name: Pank
+      Size: 1
+      MaxEnergy: 10
+      Weight: 1
+      judge: 1
+    - id: 5
+      name: Pandora
+      Size: 50
+      MaxEnergy: 0
+      Weight: -2
+      judge: 1
+    - id: 0
+      name: 
+      Size: 0
+      MaxEnergy: 0
+      Weight: 0
+      judge: 0
+    - id: 0
+      name: 
+      Size: 0
+      MaxEnergy: 0
+      Weight: 0
+      judge: 0
+    - id: 0
+      name: 
+      Size: 0
+      MaxEnergy: 0
+      Weight: 0
+      judge: 0
+    - id: 0
+      name: 
+      Size: 0
+      MaxEnergy: 0
+      Weight: 0
+      judge: 0
+    - id: 0
+      name: 
+      Size: 0
+      MaxEnergy: 0
+      Weight: 0
+      judge: 0
+    - id: 0
+      name: 
+      Size: 0
+      MaxEnergy: 0
+      Weight: 0
+      judge: 0
+    - id: 0
+      name: 
+      Size: 0
+      MaxEnergy: 0
+      Weight: 0
+      judge: 0
+    - id: 0
+      name: 
+      Size: 0
+      MaxEnergy: 0
+      Weight: 0
+      judge: 0
+    - id: 0
+      name: 
+      Size: 0
+      MaxEnergy: 0
+      Weight: 0
+      judge: 0
+    - id: 0
+      name: 
+      Size: 0
+      MaxEnergy: 0
+      Weight: 0
+      judge: 0
+    - id: 0
+      name: 
+      Size: 0
+      MaxEnergy: 0
+      Weight: 0
+      judge: 0
+    - id: 0
+      name: 
+      Size: 0
+      MaxEnergy: 0
+      Weight: 0
+      judge: 0
